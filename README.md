@@ -1,155 +1,197 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7e22ce,50:a855f7,100:2563eb&text=Allison+Rocío+Vargas+Mejía&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack+Developer&descAlignY=58&descSize=18" alt="Allison Vargas - Full-Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7e22ce,50:c026d3,100:ec4899&text=Allison%20Vargas&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Backend%20%26%20Full-Stack&descAlignY=58&descSize=20&animation=fadeIn" alt="Allison Vargas · Software Developer" width="100%" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/allisonrvargas?tab=repositories">
-    <img src="https://img.shields.io/badge/Open%20Source-Active-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=allisonrvargas&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
-<h1 align="center">Hola, soy Allison Vargas</h1>
-
-<p align="center">
-  <strong>Full-Stack Developer | Web, Mobile, Automation & AI Solutions</strong>
-  <br />
-  Estudiante de Programación e Informática. Desarrollo aplicaciones web adaptativas, automatizaciones de flujos de trabajo e interfaces móviles enfocadas en resolver problemas reales e integrar visión por computadora e IA.
-</p>
 
 <div align="center">
   <a href="https://github.com/allisonrvargas">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=980&lines=HTML5+%2B+CSS3+%2B+JavaScript+%2B+TypeScript;Flutter+%2B+Firebase+%2B+MediaPipe+AI;Automation+with+n8n+%2B+Telegram+Bots+%2B+Google+Sheets;Git+%2B+GitHub+Collaborative+Workflows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C026D3&center=true&vCenter=true&width=720&lines=APIs+REST+con+Node.js+%2B+Express;Bases+de+datos%3A+MySQL+%C2%B7+PostgreSQL+%C2%B7+MongoDB;Frontend+con+HTML%2C+CSS+y+JavaScript;Automatizaci%C3%B3n+e+IA%3A+n8n+%C2%B7+Gemini+%C2%B7+Qdrant" alt="Typing SVG" />
   </a>
-</div>
-
----
-
-## Qué hago
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Desarrollo Web Frontend</h3>
-      <p>Diseño y maqueto interfaces maquetadas con HTML5 y CSS3 puro, responsivas, mobile-first y optimizadas, además de aplicaciones dinámicas con JavaScript y TypeScript.</p>
-    </td>
-    <td width="50%">
-      <h3>Desarrollo Móvil e IA</h3>
-      <p>Construyo soluciones móviles multiplataforma usando Flutter y Firebase, integrando herramientas de IA y visión por computadora como MediaPipe para experiencias interactivas.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Automatización & Integraciones</h3>
-      <p>Diseño e integro flujos automatizados con n8n, estructurando datos JSON, scripts de validación, bots de Telegram e integración con hojas de cálculo y bases de datos.</p>
-    </td>
-    <td width="50%">
-      <h3>Trabajo Colaborativo & Git</h3>
-      <p>Manejo flujos de trabajo en equipo mediante Git/GitHub, control de ramas, gestión de proyectos compartidos y desarrollo de código modular y mantenible.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Stack principal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,dart,firebase,mysql,postgres,py,git,github,figma,vscode&perline=7" alt="Tech stack" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JavaScript%20%7C%20TypeScript-3b82f6?style=flat-square" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-a855f7?style=flat-square" alt="Mobile" />
-  <img src="https://img.shields.io/badge/Databases%20%26%20Cloud-Firebase%20Firestore%20%7C%20Google%20Sheets%20%7C%20SQL-2563eb?style=flat-square" alt="Databases" />
-  <img src="https://img.shields.io/badge/Automation-n8n%20%7C%20Telegram%20Bots%20%7C%20JSON%20APIs-7e22ce?style=flat-square" alt="Automation" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Tools-MediaPipe%20AI%20%7C%20Figma%20%7C%20Git-3b82f6?style=flat-square" alt="Tools" />
+  <a href="https://allisonrvargas.github.io/portafolio_profesional/">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Explora%20mi%20portafolio%203D-c026d3?style=for-the-badge&logoColor=white" alt="Portafolio" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://allisonrvargas.github.io/portafolio_profesional/cv/CV_Allison_Rocio_Vargas_Mejia.pdf">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20Descargar%20CV-7e22ce?style=for-the-badge&logoColor=white" alt="CV" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/allis-vargas-181519335/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42" />
+  </a>
 </div>
 
 ---
 
-## Proyectos destacados
+## 👩‍💻 Sobre mí
+
+Soy **Allison Rocío Vargas Mejía**, técnico en desarrollo de software en formación en **Campuslands Guatemala** y estudiante de **Ingeniería en Ciencias y Sistemas**.
+
+- 🛠️ Me especializo en **backend**: APIs REST con Node.js y Express, autenticación con JWT y Passport, límites de peticiones y arquitectura por capas.
+- 🗄️ Diseño **bases de datos relacionales y NoSQL** con triggers, procedimientos almacenados, vistas, CTE y transacciones.
+- 🧪 Escribo **pruebas automatizadas** (Jest, `node:test`) y documento APIs con **Swagger**.
+- 🤖 Exploro **IA y automatización**: flujos en n8n, embeddings con Gemini y búsqueda vectorial con Qdrant.
+- 🎮 Fuera del código me encantan los juegos de construcción y estrategia, por eso mi portafolio es un **mundo 3D de bloques** que puedes recorrer.
+
+---
+
+## 🧰 Stack tecnológico
+
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js&perline=8" alt="Backend" />
+
+**Bases de datos**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&perline=8" alt="Bases de datos" />
+
+**Frontend y móvil**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&perline=8" alt="Frontend" />
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,jest,vscode,figma&perline=8" alt="Herramientas" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white" alt="Passport" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe" />
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
 
 <table>
   <tr>
-    <td width="33%">
-      <h3><a href="https://github.com/allisonrvargas/Kid_Fit_allison-vargas">KID-FIT 🔗</a></h3>
-      <p>Plataforma web gamificada para promover la actividad física infantil utilizando Flutter, Firebase y visión por computadora con MediaPipe AI.</p>
-      <br />
-      <a href="https://github.com/allisonrvargas/Kid_Fit_allison-vargas">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="KID-FIT Repo" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>📚 Librarian</h3>
+      <p>Sistema de biblioteca con préstamos, ventas, clientes e inventario. Roles de administrador y usuario, tres límites de peticiones y <b>26 pruebas automatizadas</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/node:test-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <a href="https://github.com/allisonrvargas/review_express_backend">Backend</a> ·
+      <a href="https://github.com/allisonrvargas/review_express_frontend">Frontend</a>
     </td>
-    <td width="33%">
-      <h3><a href="https://github.com/MariaJoseMontepequeZet/Proyecto_TutorBot_VargasAllison_MontepequeMaria">TutorBot 🔗</a></h3>
-      <p>Arquitectura de tutoría académica automatizada orquestada en n8n con bot de Telegram, filtros de validación JSON e integración con Google Sheets.</p>
-      <br />
-      <a href="https://github.com/MariaJoseMontepequeZet/Proyecto_TutorBot_VargasAllison_MontepequeMaria">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="TutorBot Repo" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🎯 API de postulaciones</h3>
+      <p>API REST que calcula el puntaje y la prioridad de cada candidato a una vacante. Reglas de negocio, filtros, control de estados y <b>123 pruebas</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <a href="https://github.com/allisonrvargas/evaluacion-allison_rocio_vargas_mejia">Ver repositorio</a>
     </td>
-    <td width="33%">
-      <h3><a href="https://github.com/allisonrvargas/Campushop">CampusShop 🔗</a></h3>
-      <p>Frontend para tienda de comercio electrónico maquetado desde cero con HTML5 y CSS3 puro, con diseño responsivo mobile-first.</p>
-      <br />
-      <a href="https://github.com/allisonrvargas/Campushop">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="CampusShop Repo" />
-      </a>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ Gym Manager CLI</h3>
+      <p>Aplicación de consola para un gimnasio: clientes, planes, contratos, nutrición y finanzas. Transacciones en MongoDB con rollback, agregaciones, SOLID y patrones de diseño.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <a href="https://github.com/allisonrvargas/gym_manager">Ver repositorio</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Gremio de Cazadores</h3>
+      <p>API REST modular y segura con autenticación por JWT y Passport.js, organizada en una arquitectura limpia por capas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Passport-34E27A?style=flat-square&logo=passport&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </p>
+      <a href="https://github.com/allisonrvargas/jwt_and_passport">Ver repositorio</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏃 Kid-Fit</h3>
+      <p>App móvil que cuenta los ejercicios de niños con la cámara del teléfono. Trabajé en el motor de movimiento: ángulos con MediaPipe Pose, validación del salto y pruebas de 10 a 30 FPS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <a href="https://github.com/allisonrvargas/Kid_Fit_allison-vargas">Ver repositorio</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🅿️ Campus Parking</h3>
+      <p>Aplicación de una sola página para administrar un estacionamiento: inicio de sesión, mapa de espacios, servicios de parqueo y reportes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://allisonrvargas.github.io/Campus-Parking/">Demo en vivo</a> ·
+      <a href="https://github.com/allisonrvargas/Campus-Parking">Código</a>
     </td>
   </tr>
 </table>
 
----
-
-## Actividad en vivo
-
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=allisonrvargas&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allisonrvargas&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+  <sub>Estos son solo algunos. Los 15 proyectos completos están en la <a href="https://allisonrvargas.github.io/portafolio_profesional/">Torre de proyectos de mi portafolio</a> 🏰</sub>
 </div>
 
 ---
 
-## Tarjetas automáticas
+## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allisonrvargas&theme=tokyonight" alt="Profile details" width="98%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allisonrvargas&theme=tokyonight" alt="Repos per language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allisonrvargas&theme=tokyonight" alt="Most commit language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allisonrvargas&theme=tokyonight" alt="Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allisonrvargas&theme=tokyonight&utcOffset=-6" alt="Productive time" width="49%" />
+  <img height="165" src="https://streak-stats.demolab.com?user=allisonrvargas&theme=tokyonight&hide_border=true&ring=C026D3&fire=EC4899&currStreakLabel=C026D3" alt="GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allisonrvargas&theme=tokyonight" alt="Lenguajes" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allisonrvargas&bg_color=1a1b27&color=c026d3&line=ec4899&point=ffffff&area=true&area_color=7e22ce&hide_border=true&radius=10&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
 </div>
 
 ---
 
-## Cómo trabajo
+## 🔄 Cómo trabajo
 
 ```txt
-Planificación -> Prototipado -> Estructura & Lógica -> Integración -> Validation ->
-
-
+Análisis → Modelado de datos → API y lógica de negocio → Pruebas → Documentación → Despliegue
 ```
-## Contacto
+
+---
+
+## 📫 Contacto
 
 <div align="center">
-  <a href="https://github.com/allisonrvargas">
-    <img src="https://img.shields.io/badge/GitHub-allisonrvargas-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://allisonrvargas.github.io/portafolio_profesional/">
+    <img src="https://img.shields.io/badge/Portafolio-allisonrvargas.github.io-c026d3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio" />
   </a>
   <a href="https://www.linkedin.com/in/allis-vargas-181519335/">
-    <img src="https://img.shields.io/badge/LinkedIn-Allison%20Vargas-a855f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Allison%20Vargas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:av503640@gmail.com">
-    <img src="https://img.shields.io/badge/Email-av503640%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-av503640%40gmail.com-7e22ce?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <strong>Disponible para desarrollo de software, proyectos colaborativos e innovaciones web y móvil.</strong>
+  <strong>Abierta a prácticas, proyectos colaborativos y oportunidades como desarrolladora backend o full-stack.</strong>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:ec4899,50:c026d3,100:7e22ce&section=footer" width="100%" alt="" />
