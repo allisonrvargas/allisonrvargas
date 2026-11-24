@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/Open%20Source-Active-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=allisonrvargas&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://allisonrvargas.github.io/portafolio_profesional/">
+    <img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-a855f7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio" />
+  </a>
 </div>
 
 <h1 align="center">Hola, soy Allison Vargas</h1>
