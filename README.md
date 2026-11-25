@@ -89,12 +89,10 @@
       </a>
     </td>
     <td width="33%">
-      <h3><a href="https://github.com/MariaJoseMontepequeZet/Proyecto_TutorBot_VargasAllison_MontepequeMaria">TutorBot 🔗</a></h3>
+      <h3>TutorBot</h3>
       <p align="justify">Arquitectura de tutoría académica automatizada orquestada en n8n con bot de Telegram, filtros de validación JSON e integración con Google Sheets.</p>
       <br />
-      <a href="https://github.com/MariaJoseMontepequeZet/Proyecto_TutorBot_VargasAllison_MontepequeMaria">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="TutorBot Repo" />
-      </a>
+      <img src="https://img.shields.io/badge/Repositorio-privado-6b7280?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio privado" />
     </td>
     <td width="33%">
       <h3><a href="https://github.com/allisonrvargas/Campushop">CampusShop 🔗</a></h3>
