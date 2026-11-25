@@ -139,9 +139,7 @@ Proyectos con código documentado, pruebas y, cuando se puede, demo en línea.
 ## Cómo trabajo
 
 ```txt
-Planificación -> Prototipado -> Estructura & Lógica -> Integración -> Validación ->
-
-
+Planificación -> Prototipado -> Estructura & Lógica -> Integración -> Validación
 ```
 ## Contacto
 
