@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/allisonrvargas">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=980&lines=HTML5+%2B+CSS3+%2B+JavaScript+%2B+TypeScript;Flutter+%2B+Firebase+%2B+MediaPipe+AI;Automation+with+n8n+%2B+Telegram+Bots+%2B+Google+Sheets;Git+%2B+GitHub+Collaborative+Workflows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=980&lines=HTML5+%2B+CSS3+%2B+JavaScript+%2B+TypeScript;Node.js+%2B+Express+%2B+REST+APIs;Flutter+%2B+Firebase+%2B+MediaPipe+AI;Automation+with+n8n+%2B+Telegram+Bots+%2B+Google+Sheets;Git+%2B+GitHub+Collaborative+Workflows" alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,7 +36,7 @@
   <tr>
     <td width="50%">
       <h3>Desarrollo Web Frontend</h3>
-      <p align="justify">Diseño y maqueto interfaces maquetadas con HTML5 y CSS3 puro, responsivas, mobile-first y optimizadas, además de aplicaciones dinámicas con JavaScript y TypeScript.</p>
+      <p align="justify">Maqueto interfaces con HTML5 y CSS3 puro, responsivas, mobile-first y optimizadas, además de aplicaciones dinámicas con JavaScript y TypeScript.</p>
     </td>
     <td width="50%">
       <h3>Desarrollo Móvil e IA</h3>
@@ -60,15 +60,16 @@
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,dart,firebase,mysql,postgres,py,git,github,figma,vscode&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,flutter,dart,firebase,mysql,postgres,mongodb,py,docker,git,github,figma,vscode&perline=9" alt="Tech stack" />
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JavaScript%20%7C%20TypeScript-3b82f6?style=flat-square" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20JWT%20%7C%20REST%20APIs-22c55e?style=flat-square" alt="Backend" />
   <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-a855f7?style=flat-square" alt="Mobile" />
-  <img src="https://img.shields.io/badge/Databases%20%26%20Cloud-Firebase%20Firestore%20%7C%20Google%20Sheets%20%7C%20SQL-2563eb?style=flat-square" alt="Databases" />
+  <img src="https://img.shields.io/badge/Databases%20%26%20Cloud-MySQL%20%7C%20PostgreSQL%20%7C%20MongoDB%20%7C%20Firebase%20%7C%20Google%20Sheets-2563eb?style=flat-square" alt="Databases" />
   <img src="https://img.shields.io/badge/Automation-n8n%20%7C%20Telegram%20Bots%20%7C%20JSON%20APIs-7e22ce?style=flat-square" alt="Automation" />
   <img src="https://img.shields.io/badge/AI%20%26%20Tools-MediaPipe%20AI%20%7C%20Figma%20%7C%20Git-3b82f6?style=flat-square" alt="Tools" />
 </div>
@@ -124,7 +125,7 @@
 ## Cómo trabajo
 
 ```txt
-Planificación -> Prototipado -> Estructura & Lógica -> Integración -> Validation ->
+Planificación -> Prototipado -> Estructura & Lógica -> Integración -> Validación ->
 
 
 ```
