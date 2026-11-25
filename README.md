@@ -109,6 +109,20 @@
 
 ---
 
+## Backend, APIs y automatización
+
+Proyectos con código documentado, pruebas y, cuando se puede, demo en línea.
+
+| Proyecto | Qué es | Stack | Enlaces |
+| --- | --- | --- | --- |
+| **Librarian** | Sistema de biblioteca-librería: catálogo, préstamos, ventas y roles. Frontend y backend separados | Node.js, Express 5, Vite, JS puro | [Demo](https://allisonrvargas.github.io/review_express_frontend/) · [Frontend](https://github.com/allisonrvargas/review_express_frontend) · [API](https://github.com/allisonrvargas/review_express_backend) |
+| **API de Postulaciones** | API REST que asigna puntaje y prioridad a candidatos. 123 pruebas y CI en cada cambio | Node.js, Express 5, MySQL, Docker, Jest | [Repositorio](https://github.com/allisonrvargas/api-postulaciones) |
+| **Gym Manager** | CLI para gestionar un gimnasio, con transacciones reales en MongoDB y planeación Scrum | Node.js, MongoDB, Docker | [Repositorio](https://github.com/allisonrvargas/gym_manager) |
+| **API Gremio de Cazadores** | API con autenticación JWT y Passport.js, arquitectura por capas y roles | Node.js, Express, Passport, JWT | [Repositorio](https://github.com/allisonrvargas/jwt_and_passport) |
+| **Automatizaciones n8n** | Flujo que clasifica postulaciones por webhook y responde con su prioridad | n8n, JSON, webhooks | [Repositorio](https://github.com/allisonrvargas/n8n-automatizaciones) |
+| **La Arena de Allison** | Mi portafolio interactivo en 3D | Three.js, JavaScript | [Sitio](https://allisonrvargas.github.io/portafolio_profesional/) · [Código](https://github.com/allisonrvargas/portafolio_profesional) |
+
+---
 ## 📊 Estadísticas
 
 <div align="center">
